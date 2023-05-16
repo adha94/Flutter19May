@@ -13,3 +13,5 @@ We have done a registration form during the tutorial. I have added more elements
 Notice how customizable Flutter is in terms of designing the Form UI.
 
 You could setup the Firebase on your own and see how the data is added into the Firestore.
+
+Another thing that I did was code refactoring. We can reuse the TextFormField widget as many as we like and customize according to the desired parameters. As a result, the code is much cleaner and easier to maintain.
