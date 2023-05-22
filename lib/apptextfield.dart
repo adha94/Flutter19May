@@ -17,7 +17,7 @@ class AppTextField extends StatelessWidget {
   final AutovalidateMode autovalidateMode;
   final TextInputAction? textInputAction;
 
-  AppTextField(
+  const AppTextField(
       {super.key,
       required this.controller,
       required this.keyboardType,
